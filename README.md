@@ -6,6 +6,7 @@
 ├── README.md
 ├── Notebooks : Notebooks for analysis
 │
+├── nlp-lab-topic-main #dossiers avec les scripts des TDs, pas necessaire dans ce projet
 ├── data
 │      ├── legislatives_73 
 │      ├── legislatives_78 
